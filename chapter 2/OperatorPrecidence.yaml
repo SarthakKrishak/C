@@ -1,0 +1,9 @@
+If paranthesis are not there then the following are the order of operators,
+
+highest --> *,/,%
+middle --> +,-
+lowest --> =,==,!=,>,<,>=,<=
+
+Also if there is a tie btw the * and / then,
+
+We will see from left to right.
