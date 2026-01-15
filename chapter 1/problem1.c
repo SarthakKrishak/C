@@ -6,7 +6,6 @@ int main(){
     scanf("%d", &l);
     printf("Enter the breadth of the rectangle: ");
     scanf("%d", &b);
-    
     printf("area is %d", l * b);
     return 0;
 }

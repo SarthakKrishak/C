@@ -1,4 +1,4 @@
-If paranthesis are not there then the following are the order of operators,
+If "paranthesis" are not there then the following are the order of operators,
 
 highest --> *,/,%
 middle --> +,-
@@ -6,4 +6,6 @@ lowest --> =,==,!=,>,<,>=,<=
 
 Also if there is a tie btw the * and / then,
 
-We will see from left to right.
+We will see from left to right. as *,/,% follows left to right associativity.
+
+There are some operators that follow right to left associativity as well.

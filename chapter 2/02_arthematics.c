@@ -9,6 +9,7 @@ int main()
     int sub = a - b;
     int mul = a * b;
     int div = a / b;
+    //Modulus operator
     int rem = a % b;
 
     printf("%d\n", add);

@@ -6,6 +6,7 @@ int main()
     int b;
     int c;
     int cab;
+    // Case sensitive
     int sarthak;
     int SARTHAK;
     //declaration as below is not allowed
