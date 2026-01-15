@@ -1,3 +1,8 @@
+// https://www.ascii-code.com/
+
+// a - 97
+// z - 122
+
 // Wheather the entered character is capital or not. use ASCII values
 #include <stdio.h>
 
